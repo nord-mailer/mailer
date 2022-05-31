@@ -1,0 +1,2 @@
+# mailer
+Mass Mailer - NordMailer
