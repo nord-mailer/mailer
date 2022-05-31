@@ -1,0 +1,19 @@
+{
+  "host": "SMTP server address",
+  "email": "Email / Username of your SMTP",
+  "password": "Password of your SMTP",
+  "port": 587,
+
+  "subject": "Mail subject",
+  "title": "Mail senders name",
+
+  "customEmail": "Spoof From Mail",
+  "replyTo": "",
+
+  "limit": 500,
+  "delay": 1,
+
+  "useAttachment": false,
+  "attachmentName": "a.html",
+  "attachmentPath": "./a.html"
+}
