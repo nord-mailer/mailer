@@ -7,7 +7,7 @@
   "subject": "Mail subject",
   "title": "Mail senders name",
 
-  "customEmail": "Spoof From Mail",
+  "customEmail": "",
   "replyTo": "",
 
   "limit": 500,
