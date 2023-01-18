@@ -15,5 +15,8 @@
 
   "useAttachment": false,
   "attachmentName": "a.html",
-  "attachmentPath": "./a.html"
+  "attachmentPath": "./a.html",
+  
+  "userEmail": "yourEmail",
+  "userPass": "yourPassword"
 }
